@@ -1,0 +1,24 @@
+
+Press 1. Insert  2. Display     3. Exit
+1
+
+Enter a value to insert into hash table: 10
+
+Press 1. Insert  2. Display     3. Exit
+1
+
+Enter a value to insert into hash table: 15
+
+Press 1. Insert  2. Display     3. Exit
+1
+
+Enter a value to insert into hash table: 7
+
+Press 1. Insert  2. Display     3. Exit
+2
+Entries at index 0: 15 -> NULL
+Entries at index 1: 10 -> 7 -> NULL
+Entries at index 2: No Hash Entry
+
+Press 1. Insert  2. Display     3. Exit
+3
